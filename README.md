@@ -1,1 +1,1 @@
-# Hypertension-risk-model
+# Hypertension-risk-prediction-model
